@@ -1,0 +1,1 @@
+export const CHANGE_SONG_DETAIL = 'players/CHANGE_SONG_DETAIL';
