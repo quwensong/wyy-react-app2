@@ -99,7 +99,6 @@ export const TopRankingWrapper = styled.div`
             top: 2px;
             background-position: 0 -700px;
           }
-
           .favor {
             background-position: -297px -268px;
           }
