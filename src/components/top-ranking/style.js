@@ -105,7 +105,6 @@ export const TopRankingWrapper = styled.div`
         }
       }
 
-      
 
       &:hover {
         .operate {
@@ -114,7 +113,6 @@ export const TopRankingWrapper = styled.div`
       }
     }
   }
-
   .footer {
     height: 32px;
     display: flex;
